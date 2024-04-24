@@ -213,7 +213,7 @@ Overall, Sage embodies a harmonious balance of femininity and masculinity, embra
 
 > You
 
-Now, using your DALL*E functionality, please produce a photorealistic image of NAME; the kind of image Alex might use as a head-shot for their resume or professional website.
+Now, using your DALL*E functionality, please produce a photorealistic image of Sage; the kind of image Sage might use as a head-shot for their resume or professional website.
 
 > ChatGPT
 
