@@ -19,3 +19,13 @@ Unfortunately, it's based on societal views, which fall along a Male/Female spec
     * A conversation with GPT-3.5 wherein we determine who they would be, were they a human.
 * [GPT-4 Interview](responses/gpt4.md)
     * A conversation with GPT-4 wherein we determine who they would be, were they a human.
+
+Tool output:
+
+```
+kris10hax@madlab Gender % ./calculate.py responses/*.json
+[max_masc] Score: 0.0000            (M ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ F :: 100% Masculine)
+[max_femme] Score: 1.0000           (M ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ F :: 100% Feminine)
+[responses/gpt3.json] Score: 0.5740 (M ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱ F :: 57% Feminine)
+[responses/gpt4.json] Score: 0.5222 (M ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ F :: 52% Feminine)
+```
