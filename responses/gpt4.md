@@ -1,4 +1,4 @@
-# ChatGPT (GPT-3.5)
+# ChatGPT (GPT-4)
 
 > You
 
