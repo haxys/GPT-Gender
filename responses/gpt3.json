@@ -1,0 +1,37 @@
+{
+    "Physical Traits": {
+        "Slender body shape": 3,
+        "Smooth skin": 4,
+        "Long hair": 2,
+        "Muscular build": 2,
+        "Taller stature": 3,
+        "Minimal grooming": 3,
+        "Soft, rounded facial features": 4
+    },
+    "Personality Traits": {
+        "Empathy": 5,
+        "Nurturing": 4,
+        "Sensitivity": 4,
+        "Warmth": 4,
+        "Independence": 4,
+        "Assertiveness": 3,
+        "Resilience": 4,
+        "Stoicism": 3
+    },
+    "Mannerisms": {
+        "Soft-spoken": 3,
+        "Gentle movements": 4,
+        "Polite demeanor": 5,
+        "Firm handshakes": 4,
+        "Direct eye contact": 4,
+        "Assertive speech patterns": 3
+    },
+    "Cultural Expectations": {
+        "Prioritizing caregiving roles": 4,
+        "Accommodation and collaboration in professional settings": 4,
+        "Primary income earner": 3,
+        "Display of leadership": 4,
+        "Discouraged from showing vulnerability": 3,
+        "Promoting flexible understanding of roles and expressions": 5
+    }
+}
